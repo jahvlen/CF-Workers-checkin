@@ -1,0 +1,4 @@
+name = "qd"
+main = "worker.js"
+compatibility_date = "2026-4-25"
+keep_vars = true
